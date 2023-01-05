@@ -39,5 +39,3 @@ services:
 #       - MYSQL_DATABASE=app_development
 #       - MYSQL_USER=kato
 #       - MYSQL_PASSWORD=password
-#     ports:
-#       - '4400:3306'
